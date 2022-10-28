@@ -1,0 +1,3 @@
+INPUT a b
+OUTPUT d1 d2 d3 d4
+DECODER d1 d2 d3 d4 a b
