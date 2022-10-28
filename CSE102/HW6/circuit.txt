@@ -1,0 +1,5 @@
+INPUT a b c d
+AND and1 a b
+OR or1 and1 c
+NOT n1 d
+AND a2 or1 n1
