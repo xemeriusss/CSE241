@@ -1,1 +1,1 @@
-32-BITS SINGLE CYCLE MIPS PROCESSOR
+32-Bits Single Cycle MIPS Processor
