@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"hw3_ll","l":"Account"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"hw3_ll","l":"Comment"},{"p":"hw3_ll","l":"Interaction"},{"p":"hw3_ll","l":"Like"},{"p":"hw3_ll","l":"Message"},{"p":"hw3_ll","l":"Post"},{"p":"hw3_ll","l":"testclass1"},{"p":"hw3_ll","l":"testclass2"},{"p":"hw3_ll","l":"testclass3"},{"p":"hw3_ll","l":"testclass4"}]
