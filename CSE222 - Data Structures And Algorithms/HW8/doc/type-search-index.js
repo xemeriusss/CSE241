@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"hw8","l":"CSE222BFS"},{"p":"hw8","l":"CSE222Dijkstra"},{"p":"hw8","l":"CSE222Graph"},{"p":"hw8","l":"CSE222Map"},{"p":"hw8","l":"Main"},{"p":"hw8","l":"TestCases"}]
